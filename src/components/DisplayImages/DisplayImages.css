@@ -1,0 +1,18 @@
+.image-display-container{
+    padding: 1rem 2rem;
+}
+
+.image-display-container .header{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.masonry-item{
+    position: relative;
+}
+
+.masonry-item .delete-btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
